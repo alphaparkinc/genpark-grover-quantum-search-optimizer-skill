@@ -1,0 +1,13 @@
+{
+  "name": "genpark-grover-quantum-search-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Grover amplitude amplification search algorithm providing quadratic speedup O(sqrt(N)) for unstructured databases and combinatorial satisfaction problems.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "grovers-search",
+    "amplitude-amplification",
+    "quantum-speedup",
+    "combinatorial-search"
+  ]
+}
